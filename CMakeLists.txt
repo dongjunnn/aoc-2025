@@ -12,3 +12,4 @@ function(add_aoc_day year day)
 endfunction()
 
 add_aoc_day(2025 01)
+add_aoc_day(2025 02)
