@@ -13,3 +13,5 @@ endfunction()
 
 add_aoc_day(2025 01)
 add_aoc_day(2025 02)
+add_aoc_day(2025 03)
+add_aoc_day(2025 04)
